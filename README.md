@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Rehanaimran
-- 👀 I’m interested in programing language 
-- 🌱 I’m currently learning typescrip 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m currently working on E-commerce website 
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on All projets
+- Ask me about Next.js
+- 📫 How to reach me irehana804@gmail.com
+- ⚡ Fun fact:I never work on any project 
 
 <!---
 Rehanaimran/Rehanaimran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
