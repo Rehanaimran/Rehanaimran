@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Rehanaimran
-- 👀 I’m currently working on E-commerce website 
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on All projets
-- Ask me about Next.js
-- 📫 How to reach me irehana804@gmail.com
+- 👀 I’m currently working on Ecommerce
+- 🌱 I’m currently learning on next-js
+- 💞️ I’m looking to collaborate on All projects
+- 🤝l am looking for help with new frame work
+- Ask me about Next-js
+- 📫 How to reach me irehana804@gmail.com 
 - ⚡ Fun fact:I never work on any project 
 
 <!---
