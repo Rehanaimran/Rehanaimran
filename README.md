@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rehanaimran
 - 👀 I’m currently working on Ecommerce
-- 🌱 I’m currently learning on next-js
+- 🌱 I’m currently learning on HTML-CSS
 - 💞️ I’m looking to collaborate on All projects
 - 🤝l am looking for help with new frame work
 - Ask me about Next-js
