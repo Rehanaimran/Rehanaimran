@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning on HTML-CSS
 - 💞️ I’m looking to collaborate on All projects
 - 🤝l am looking for help with new frame work
-- Ask me about Next-js
+- Ask me about HTML-CSS
 - 📫 How to reach me irehana804@gmail.com 
 - ⚡ Fun fact:I never work on any project 
 
